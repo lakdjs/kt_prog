@@ -1,0 +1,15 @@
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\bin\Debug\net6.0\kt_interfaces.exe
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\bin\Debug\net6.0\kt_interfaces.deps.json
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\bin\Debug\net6.0\kt_interfaces.runtimeconfig.json
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\bin\Debug\net6.0\kt_interfaces.dll
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\bin\Debug\net6.0\kt_interfaces.pdb
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.csproj.AssemblyReference.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.AssemblyInfoInputs.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.AssemblyInfo.cs
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.dll
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\refint\kt_interfaces.dll
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.pdb
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\kt_interfaces.genruntimeconfig.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\kt_prog\kt_interfaces\kt_interfaces\obj\Debug\net6.0\ref\kt_interfaces.dll
